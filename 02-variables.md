@@ -144,7 +144,7 @@ print("City:", city)
 City: Kathmandu
 ```
 
-When we print more than one object in a single print() function, they are by default separated by commas.
+When we print more than one object in a single `print()` function, they are by default separated by commas.
 
 ```
 # print four objects in one print()
