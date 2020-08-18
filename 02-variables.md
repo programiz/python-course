@@ -150,14 +150,14 @@ When we print more than one object in a single print() function, they are by def
 # print four objects in one print()
 
 city = "Kathmandu"
-kfc_locations = 2
+kfc_locations = 3
 print("City:", city, "KFC Locations:", kfc_locations)
 ```
 
 **Output**
 
 ```
-City: city KFC locations:
+City: Kathmandu KFC Locations: 3
 ```
 
 ## Giving Good Variable Names
