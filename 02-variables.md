@@ -14,7 +14,7 @@ A string is a textual data. They must be wrapped inside quotation marks.
 # Printing Strings
 
 print('Hello World')
-print("Python 3 is awesome")g
+print("Python 3 is awesome")
 ```
 
 **Output**
@@ -72,6 +72,7 @@ We can also change the data a variable holds.
 
 ```
 # change value of a variable
+
 city = "Kathmandu"
 print(city)
 
