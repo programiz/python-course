@@ -28,8 +28,8 @@ Python 3 is awesome
 
 The `print()` function can also be used to print numbers. There are two commonly used numeric data in Python:
 
-* integers:  5, -34, 0 etc.
-* floating-point numbers: 5.0, -45.2, 3.5 etc.
+- integers: 5, -34, 0 etc.
+- floating-point numbers: 5.0, -45.2, 3.5 etc.
 
 ```
 # Printing numbers
@@ -60,7 +60,7 @@ city = "Kathmandu"
 print(city)
 ```
 
-** Output **
+**Output**
 
 ```
 Kathmandu
@@ -79,7 +79,7 @@ city = "New York"
 print(city)
 ```
 
-** Output **
+**Output**
 
 ```
 Kathmandu
@@ -157,12 +157,9 @@ print("City:", city, "KFC Locations:", kfc_locations)
 **Output**
 
 ```
-City: city KFC locations: 
+City: city KFC locations:
 ```
 
 ## Giving Good Variable Names
 
 We should always try to give descriptive and meaningful variable names so that it's easier to understand our code.
-
-
-
