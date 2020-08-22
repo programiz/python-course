@@ -6,8 +6,8 @@ In this video, we learned to take input from the user.
 
 **Programs in the Video**
 
-- [Take Input from the User](https://github.com/programiz/python-course/blob/master/03-input.md#take-input-from-the-user-1)
-- [Printing Message Before Input](https://github.com/programiz/python-course/blob/master/03-input.md#printing-message-before-input)
+- [Take input from the user](https://github.com/programiz/python-course/blob/master/03-input.md#take-input-from-the-user-1)
+- [Printing message before input](https://github.com/programiz/python-course/blob/master/03-input.md#printing-message-before-input)
 - [Trying to take numeric input](https://github.com/programiz/python-course/blob/master/03-input.md#trying-to-take-numeric-input)
 - [Print data type of integers and floating-point numbers](https://github.com/programiz/python-course/blob/master/03-input.md#print-data-type-of-integers-and-floating-point-numbers)
 - [Convert strings to integers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-strings-to-integers)
