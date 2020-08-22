@@ -1,4 +1,4 @@
-# Print Function and Variables
+# print() Function and Variables
 
 **Video Link:** [https://www.youtube.com/watch?v=i83VkP0LHPI](https://www.youtube.com/watch?v=i83VkP0LHPI)
 
