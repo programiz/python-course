@@ -1,11 +1,20 @@
 # Take Input from the User
 
-
 **Video link:**
 
 In this video, we learned to take input from the user.
 
-***
+**Programs in the Video**
+
+- [Take Input from the User](https://github.com/programiz/python-course/blob/master/03-input.md#take-input-from-the-user-1)
+- [Printing Message Before Input](https://github.com/programiz/python-course/blob/master/03-input.md#printing-message-before-input)
+- [Trying to take numeric input](https://github.com/programiz/python-course/blob/master/03-input.md#trying-to-take-numeric-input)
+- [Print data type of integers and floating-point numbers](https://github.com/programiz/python-course/blob/master/03-input.md#print-data-type-of-integers-and-floating-point-numbers)
+- [Convert strings to integers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-strings-to-integers)
+- [Convert non-numeric strings to numbers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-non-numeric-strings-to-numbers)
+
+---
+
 ## input() Function
 
 We use the `input()` function to take input from the user.
@@ -47,7 +56,6 @@ Felix
 ## Trying to take numeric input
 
 The `input()` function always takes input in the string format. We can check this by using the `type()` function.
-
 
 ```
 # Print the type of input.
@@ -137,6 +145,7 @@ print(type(number))
 ```
 <class 'float'>
 ```
+
 ## Convert non-numeric strings to numbers
 
 We can only convert numeric strings (string in number format) to numbers. If we try to convert non-numeric strings to numbers, we will get an error.
