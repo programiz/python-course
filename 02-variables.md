@@ -4,6 +4,8 @@
 
 In this video, we learned about the `print()` function and variables in Python.
 
+***
+
 **Programs in the Video**
 
 - [Progrm to Print Strings](https://github.com/programiz/python-course/blob/master/02-variables.md#print-function)
