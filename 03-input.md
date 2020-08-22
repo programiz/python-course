@@ -5,6 +5,7 @@
 
 In this video, we learned to take input from the user.
 
+***
 ## input() Function
 
 We use the `input()` function to take input from the user.
