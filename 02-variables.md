@@ -1,6 +1,16 @@
 # Print Function and Variables
 
-In this lesson, we learned about the `print()` function and variables.
+**Video Link:** [https://www.youtube.com/watch?v=i83VkP0LHPI](https://www.youtube.com/watch?v=i83VkP0LHPI)
+
+In this video, we learned about the `print()` function and variables in Python.
+
+**Programs in the Video**
+
+- [Progrm to Print Strings](https://github.com/programiz/python-course/blob/master/02-variables.md#print-function)
+- [Progrm to Print Numbers](https://github.com/programiz/python-course/blob/master/02-variables.md#program-to-print-numbers)
+- [Store Data in a Variable](https://github.com/programiz/python-course/blob/master/02-variables.md#program-to-print-numbers)
+- [Assign one Variable to Another](https://github.com/programiz/python-course/blob/master/02-variables.md#assign-one-variable-to-another)
+- [Print Multiple Objects in One print()](https://github.com/programiz/python-course/blob/master/02-variables.md#print-multiple-objects-in-one-print)
 
 ## print() Function
 

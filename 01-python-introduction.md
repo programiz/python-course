@@ -1,5 +1,7 @@
 # Introduction to Python
 
+**Video Link:** https://www.youtube.com/watch?v=B7G5B8P8k9s
+
 Python is a powerful general-purpose programming language. It is used in
 
 * Machine Learning
