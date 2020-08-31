@@ -31,44 +31,37 @@ print(name)   # Punit
 Here's a list of arithmetic operators:
 
 ```
-
 Addition: +
 Subtraction: -
-Multiplication: \*
+Multiplication: *
 Division: /
 Floor division: //
 Remainder: %
-Exponent: \*\*
+Exponent: **
 
 ```
 
 ## Examples: Arithmetic Operators
 
 ```
-\# Arithmetic operators in action
+# Arithmetic operators in action
 
 x = 5
 
 result = x + 10 # addition
-print(result) # 15
+print(result)   # 15
 
 result = x - 10 # subtraction
-print(result) # -5
+print(result)   # -5
 
 result = x \* 10 # multiplication
-print(result) # 50
+print(result)    # 50
 
 result = x / 10 # division
-print(result) # 0.5
+print(result)   # 0.5
 
-result = x \*\* 2 # exponent
-print(result) # 25
-
-result = x \*\* 2 # exponent
-print(result) # 25
-
-result = x \*\* 2 # exponent
-print(result) # 25
+result = x ** 2 # exponent
+print(result)     # 25
 
 quotient = x // 2 ## floor division
 remainder = x % 2 ## modulus
@@ -82,10 +75,9 @@ print("Remainder is", remainder) # 1
 
 ## Using parentheses
 
-We can use parentheses to make code readable.
+We can use parentheses to make code more readable.
 
 ```
-
 # harder to understand
 
 number = 34 \* 5 - 5 / 3 # 168.33333
@@ -143,10 +135,8 @@ x -= 10 # x = x - 10
 _Suppose you are a university student, and you need to pay 4535 dollars tuition fee for the next semester._
 
 _The college is giving you a discount of 10% on the early payment of your tuition fee. Since it's a good offer, you decided to make an early payment. Can you find out how much money you have to pay?_
-\*\*
 
 ```
-
 fee = 4530
 
 discount_percent = 10
@@ -176,9 +166,5 @@ conversion_ratio = 0.621371
 distance_miles = distance_km \* conversion_ratio
 
 print(distance_miles) # 350.7639295
-
-```
-
-```
 
 ```
