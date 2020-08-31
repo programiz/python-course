@@ -9,7 +9,7 @@ In this video, we learned about Python operators.
 - [Arithmetic Operators](https://github.com/programiz/python-course/blob/master/05-operators.md#arithmetic-operators)
 - [Concatenate Strings](https://github.com/programiz/python-course/blob/master/05-operators.md#concatenate-stringst)
 - [Program to Compute Amount After Discount](https://github.com/programiz/python-course/blob/master/05-operators.md#program-to-compute-discount)
-- [Solution: Kilometers to Miles](https://github.com/programiz/python-course/blob/master/05-operators.md#programming-task)
+- [**Solution**: Kilometers to Miles](https://github.com/programiz/python-course/blob/master/05-operators.md#programming-task)
 
 ---
 
