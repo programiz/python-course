@@ -152,7 +152,6 @@ print("Fee after discount:", discounted_fee, "dollars") # 4081.5
 **Forumula: 1 kilometer -> 0.621371 miles**
 
 ```
-
 # Program to convert kilometers to files
 
 distance_km = 564.5
