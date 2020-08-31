@@ -13,7 +13,7 @@ In this video, we learned about Python operators.
 
 ---
 
-An operator is a symbol that is used to perform operation and values and variables.
+An operator is a symbol that is used to perform operations om values and variables.
 
 The most frequently used operator is `=`. It is used to assign data to a variable.
 
