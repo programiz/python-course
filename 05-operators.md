@@ -6,7 +6,7 @@ In this video, we learned about Python operators.
 
 **Programs in the Video**
 
-- [Take input from the user](https://github.com/programiz/python-course/blob/master/03-input.md#take-input-from-the-user-1)
+- [Arithmetic Operators](https://github.com/programiz/python-course/blob/master/05-operators.md#arithmetic-operators)
 - [Printing message before input](https://github.com/programiz/python-course/blob/master/03-input.md#printing-message-before-input)
 - [Trying to take numeric input](https://github.com/programiz/python-course/blob/master/03-input.md#trying-to-take-numeric-input)
 - [Print data type of integers and floating-point numbers](https://github.com/programiz/python-course/blob/master/03-input.md#print-data-type-of-integers-and-floating-point-numbers)
@@ -14,8 +14,6 @@ In this video, we learned about Python operators.
 - [Convert non-numeric strings to numbers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-non-numeric-strings-to-numbers)
 
 ---
-
-## Python Operators
 
 An operator is a symbol that is used to perform operation and values and variables.
 
@@ -26,9 +24,9 @@ name = "Punit"
 print(name)   # Punit
 ```
 
-```
 ---
-### Arithmetic Operators
+
+## Arithmetic Operators
 
 Here's a list of arithmetic operators:
 
@@ -47,8 +45,7 @@ Exponent: \*\*
 ## Examples: Arithmetic Operators
 
 ```
-
-# Arithmetic operators in action
+\# Arithmetic operators in action
 
 x = 5
 
@@ -80,7 +77,9 @@ print("Quotient is", quotient) # 2
 print("Remainder is", remainder) # 1
 
 ```
+
 ---
+
 ## Using parentheses
 
 We can use parentheses to make code readable.
@@ -98,7 +97,9 @@ number = (34 \* 5) - (5 / 3) # 168.33333
 print(number)
 
 ```
+
 ---
+
 ## Concatenate Strings
 
 If the `+` operator is used with strings, it concatenated the strings.
@@ -110,10 +111,12 @@ str2 = "Jude"
 print(str1 + str2) # Hey Jude
 
 ```
+
 ---
+
 ## More on Assignment Operators
 
-*Multiple assignment at once*
+_Multiple assignment at once_
 
 ```
 
@@ -123,7 +126,7 @@ print(y) # 6
 
 ```
 
-*Compound Assignment Operators*
+_Compound Assignment Operators_
 
 ```
 
@@ -132,13 +135,15 @@ x += 10 # x = x + 10
 x -= 10 # x = x - 10
 
 ```
+
 ---
+
 ##Program to Compute Discount
 
-*Suppose you are a university student, and you need to pay 4535 dollars tuition fee for the next semester.*
+_Suppose you are a university student, and you need to pay 4535 dollars tuition fee for the next semester._
 
-*The college is giving you a discount of 10% on the early payment of your tuition fee. Since it's a good offer, you decided to make an early payment. Can you find out how much money you have to pay?*
-**
+_The college is giving you a discount of 10% on the early payment of your tuition fee. Since it's a good offer, you decided to make an early payment. Can you find out how much money you have to pay?_
+\*\*
 
 ```
 
@@ -151,13 +156,14 @@ discounted_fee = fee - discount_amount
 print("Fee after discount:", discounted_fee, "dollars") # 4081.5
 
 ```
+
 ---
+
 ##Programming Task
 
-*Can you create a program to convert distance in kilometers to miles?*
+_Can you create a program to convert distance in kilometers to miles?_
 
-*Forumula: 1 kilometer -> 0.621371 miles*
-
+_Forumula: 1 kilometer -> 0.621371 miles_
 
 ```
 
@@ -170,6 +176,8 @@ conversion_ratio = 0.621371
 distance_miles = distance_km \* conversion_ratio
 
 print(distance_miles) # 350.7639295
+
+```
 
 ```
 
