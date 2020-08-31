@@ -7,7 +7,7 @@ In this video, we learned about Python operators.
 **Programs in the Video**
 
 - [Arithmetic Operators](https://github.com/programiz/python-course/blob/master/05-operators.md#arithmetic-operators)
-- [Printing message before input](https://github.com/programiz/python-course/blob/master/03-input.md#printing-message-before-input)
+- [Concatenate Strings](https://github.com/programiz/python-course/blob/master/05-operators.md#concatenate-stringst)
 - [Trying to take numeric input](https://github.com/programiz/python-course/blob/master/03-input.md#trying-to-take-numeric-input)
 - [Print data type of integers and floating-point numbers](https://github.com/programiz/python-course/blob/master/03-input.md#print-data-type-of-integers-and-floating-point-numbers)
 - [Convert strings to integers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-strings-to-integers)
@@ -60,11 +60,11 @@ print(result)    # 50
 result = x / 10 # division
 print(result)   # 0.5
 
-result = x ** 2 # exponent
+result = x ** 2   # exponent
 print(result)     # 25
 
-quotient = x // 2 ## floor division
-remainder = x % 2 ## modulus
+quotient = x // 2  # floor division
+remainder = x % 2  # modulus
 
 print("Quotient is", quotient) # 2
 print("Remainder is", remainder) # 1
@@ -111,7 +111,6 @@ print(str1 + str2) # Hey Jude
 **Multiple assignment at once**
 
 ```
-
 x, y = 5, 6
 print(x) # 5
 print(y) # 6
@@ -121,7 +120,6 @@ print(y) # 6
 **Compound Assignment Operators**
 
 ```
-
 x = 5
 x += 10 # x = x + 10
 x -= 10 # x = x - 10
@@ -130,7 +128,7 @@ x -= 10 # x = x - 10
 
 ---
 
-##Program to Compute Discount
+## Program to Compute Discount
 
 **Suppose you are a university student, and you need to pay 4535 dollars tuition fee for the next semester.**
 
@@ -149,7 +147,7 @@ print("Fee after discount:", discounted_fee, "dollars") # 4081.5
 
 ---
 
-##Programming Task
+## Programming Task
 
 **Can you create a program to convert distance in kilometers to miles?**
 
@@ -163,7 +161,7 @@ distance_km = 564.5
 
 conversion_ratio = 0.621371
 
-distance_miles = distance_km \* conversion_ratio
+distance_miles = distance_km * conversion_ratio
 
 print(distance_miles) # 350.7639295
 
