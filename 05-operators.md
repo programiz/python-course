@@ -8,10 +8,8 @@ In this video, we learned about Python operators.
 
 - [Arithmetic Operators](https://github.com/programiz/python-course/blob/master/05-operators.md#arithmetic-operators)
 - [Concatenate Strings](https://github.com/programiz/python-course/blob/master/05-operators.md#concatenate-stringst)
-- [Trying to take numeric input](https://github.com/programiz/python-course/blob/master/03-input.md#trying-to-take-numeric-input)
-- [Print data type of integers and floating-point numbers](https://github.com/programiz/python-course/blob/master/03-input.md#print-data-type-of-integers-and-floating-point-numbers)
-- [Convert strings to integers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-strings-to-integers)
-- [Convert non-numeric strings to numbers](https://github.com/programiz/python-course/blob/master/03-input.md#convert-non-numeric-strings-to-numbers)
+- [Program to Compute Amount After Discount](https://github.com/programiz/python-course/blob/master/05-operators.md#program-to-compute-discount)
+- [Solution: Kilometers to Miles](https://github.com/programiz/python-course/blob/master/05-operators.md#programming-task)
 
 ---
 
