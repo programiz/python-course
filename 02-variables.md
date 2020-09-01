@@ -6,11 +6,11 @@ In this video, we learned about the `print()` function and variables in Python.
 
 **Programs in the Video**
 
-- [Program to Print Strings](https://github.com/programiz/python-course/blob/master/02-variables.md#print-function)
-- [Program to Print Numbers](https://github.com/programiz/python-course/blob/master/02-variables.md#program-to-print-numbers)
-- [Store Data in a Variable](https://github.com/programiz/python-course/blob/master/02-variables.md#program-to-print-numbers)
-- [Assign one Variable to Another](https://github.com/programiz/python-course/blob/master/02-variables.md#assign-one-variable-to-another)
-- [Print Multiple Objects in One print()](https://github.com/programiz/python-course/blob/master/02-variables.md#print-multiple-objects-in-one-print)
+- [Program to Print Strings](#print-function)
+- [Program to Print Numbers](#program-to-print-numbers)
+- [Store Data in a Variable](#program-to-print-numbers)
+- [Assign one Variable to Another](#assign-one-variable-to-another)
+- [Print Multiple Objects in One print()](#print-multiple-objects-in-one-print)
 
 ***
 
@@ -31,7 +31,7 @@ print("Python 3 is awesome")
 
 **Output**
 
-```python
+```
 Hello World
 Python 3 is awesome
 ```
@@ -65,7 +65,7 @@ We use variables to store data and use them later in the program.
 
 We use the `=` operator to assign a value to a variable.
 
-```
+```python
 # store data in variables and print them
 
 city = "Kathmandu"
@@ -82,7 +82,7 @@ Kathmandu
 
 We can also change the data a variable holds.
 
-```
+```python
 # change value of a variable
 
 city = "Kathmandu"
@@ -101,7 +101,7 @@ New York
 
 ### Assign one Variable to Another
 
-```
+```python
 # assign one variable to another
 
 city = "Kathmandu"
@@ -117,7 +117,7 @@ print(city)
 New York
 ```
 
-```
+```python
 # assign one variable to another
 
 my_favorite_number = 5
@@ -144,7 +144,7 @@ print(pi)
 
 We can print multiple objects in a single `print()` function by separating them with commas.
 
-```
+```python
 # print two objects in one print()
 
 city = "Kathmandu"
@@ -159,7 +159,7 @@ City: Kathmandu
 
 When we print more than one object in a single `print()` function, they are by default separated by commas.
 
-```
+```python
 # print four objects in one print()
 
 city = "Kathmandu"

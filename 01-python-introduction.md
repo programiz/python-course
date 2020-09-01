@@ -15,7 +15,7 @@ Compared to other programming languages, Python has simple, easy-to-use syntax. 
 
 ## Programs in the Videos
 
-```
+```python
 print("Hello World!")
 ```
 
