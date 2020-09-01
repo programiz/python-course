@@ -22,7 +22,7 @@ The `print()` is a built-in function in Python. It prints whatever object that i
 
 A string is a textual data. They must be wrapped inside quotation marks.
 
-```
+```python
 # Printing Strings
 
 print('Hello World')
@@ -31,7 +31,7 @@ print("Python 3 is awesome")
 
 **Output**
 
-```
+```python
 Hello World
 Python 3 is awesome
 ```
@@ -43,7 +43,7 @@ The `print()` function can also be used to print numbers. There are two commonly
 - integers: 5, -34, 0 etc.
 - floating-point numbers: 5.0, -45.2, 3.5 etc.
 
-```
+```python
 # Printing numbers
 
 print(5)
