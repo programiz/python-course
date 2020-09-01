@@ -52,7 +52,7 @@ print(result)   # 15
 result = x - 10 # subtraction
 print(result)   # -5
 
-result = x \* 10 # multiplication
+result = x * 10 # multiplication
 print(result)    # 50
 
 result = x / 10 # division
@@ -78,12 +78,12 @@ We can use parentheses to make code more readable.
 ```
 # harder to understand
 
-number = 34 \* 5 - 5 / 3 # 168.33333
+number = 34 * 5 - 5 / 3 # 168.33333
 print(number)
 
 # easier to understand
 
-number = (34 \* 5) - (5 / 3) # 168.33333
+number = (34 * 5) - (5 / 3) # 168.33333
 print(number)
 
 ```
