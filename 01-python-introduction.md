@@ -1,9 +1,9 @@
 # Introduction to Python
 
-**Video Link:** https://www.youtube.com/watch?v=B7G5B8P8k9s
+**Video Link:** [https://www.youtube.com/watch?v=B7G5B8P8k9s](https://www.youtube.com/watch?v=B7G5B8P8k9s)
 
 ***
-Python is a powerful general-purpose programming language. It is used in
+Python is a powerful general-purpose programming language. It is used in:
 
 * Machine Learning
 * Web Development
@@ -15,7 +15,7 @@ Compared to other programming languages, Python has simple, easy-to-use syntax. 
 
 ## Programs in the Videos
 
-```
+```python
 print("Hello World!")
 ```
 

@@ -6,10 +6,10 @@ In this video, we learned about Python operators.
 
 **Programs in the Video**
 
-- [Arithmetic Operators](https://github.com/programiz/python-course/blob/master/05-operators.md#arithmetic-operators)
-- [Concatenate Strings](https://github.com/programiz/python-course/blob/master/05-operators.md#concatenate-stringst)
-- [Program to Compute Amount After Discount](https://github.com/programiz/python-course/blob/master/05-operators.md#program-to-compute-discount)
-- [**Task**: Kilometers to Miles](https://github.com/programiz/python-course/blob/master/05-operators.md#programming-task)
+- [Arithmetic Operators](#arithmetic-operators)
+- [Concatenate Strings](#concatenate-stringst)
+- [Program to Compute Amount After Discount](#program-to-compute-discount)
+- [**Task**: Kilometers to Miles](#programming-task)
 
 ---
 
@@ -17,7 +17,7 @@ An operator is a symbol that is used to perform operations om values and variabl
 
 The most frequently used operator is `=`. It is used to assign data to a variable.
 
-```
+```python
 name = "Punit"
 print(name)   # Punit
 ```
@@ -41,7 +41,7 @@ Exponent: **
 
 ## Examples: Arithmetic Operators
 
-```
+```python
 # Arithmetic operators in action
 
 x = 5
@@ -75,7 +75,7 @@ print("Remainder is", remainder) # 1
 
 We can use parentheses to make code more readable.
 
-```
+```python
 # harder to understand
 
 number = 34 * 5 - 5 / 3 # 168.33333
@@ -92,10 +92,9 @@ print(number)
 
 ## Concatenate Strings
 
-If the `+` operator is used with strings, it concatenated the strings.
+If the `+` operator is used with strings, it concatenates the strings.
 
-```
-
+```python
 str1 = "Hey "
 str2 = "Jude"
 print(str1 + str2) # Hey Jude
@@ -108,7 +107,7 @@ print(str1 + str2) # Hey Jude
 
 **Multiple assignment at once**
 
-```
+```python
 x, y = 5, 6
 print(x) # 5
 print(y) # 6
@@ -117,7 +116,7 @@ print(y) # 6
 
 **Compound Assignment Operators**
 
-```
+```python
 x = 5
 x += 10 # x = x + 10
 x -= 10 # x = x - 10
@@ -132,14 +131,14 @@ x -= 10 # x = x - 10
 
 **The college is giving you a discount of 10% on the early payment of your tuition fee. Since it's a good offer, you decided to make an early payment. Can you find out how much money you have to pay?**
 
-```
+```python
 fee = 4530
 
 discount_percent = 10
 discount_amount = discount_percent/100*fee
 discounted_fee = fee - discount_amount
 
-print("Fee after discount:", discounted_fee, "dollars") # 4081.5
+print("Fee after discount:", discounted_fee, "dollars")  # 4081.5
 
 ```
 
@@ -151,7 +150,7 @@ print("Fee after discount:", discounted_fee, "dollars") # 4081.5
 
 **Formula: 1 kilometer -> 0.621371 miles**
 
-```
+```python
 # Program to convert kilometers to files
 
 distance_km = 564.5
