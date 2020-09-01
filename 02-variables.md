@@ -36,6 +36,8 @@ Hello World
 Python 3 is awesome
 ```
 
+---
+
 ### Program to Print Numbers
 
 The `print()` function can also be used to print numbers. There are two commonly used numeric data in Python:
@@ -56,6 +58,8 @@ print(34.5)
 5
 34.5
 ```
+
+---
 
 ## Variables in Python
 
@@ -78,6 +82,8 @@ print(city)
 Kathmandu
 ```
 
+---
+
 ### Change Value Stored in a Variable
 
 We can also change the data a variable holds.
@@ -98,6 +104,8 @@ print(city)
 Kathmandu
 New York
 ```
+
+---
 
 ### Assign one Variable to Another
 
@@ -140,6 +148,8 @@ print(pi)
 3.14
 ```
 
+---
+
 ## Print Multiple Objects in One print()
 
 We can print multiple objects in a single `print()` function by separating them with commas.
@@ -172,6 +182,8 @@ print("City:", city, "KFC Locations:", kfc_locations)
 ```
 City: Kathmandu KFC Locations: 3
 ```
+
+---
 
 ## Giving Good Variable Names
 

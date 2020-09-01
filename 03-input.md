@@ -1,6 +1,6 @@
 # Take Input from the User
 
-**Video link:**
+**Video link:** [https://youtu.be/DRBybZ6hsY0](https://youtu.be/DRBybZ6hsY0)
 
 In this video, we learned to take input from the user.
 
@@ -35,6 +35,8 @@ Felix
 Felix
 ```
 
+---
+
 ### Printing Message Before Input
 
 We can pass a string message inside `input()` to make our program descriptive.
@@ -52,6 +54,8 @@ print(name)
 Enter name: Felix
 Felix
 ```
+
+---
 
 ## Trying to take numeric input
 
@@ -72,6 +76,8 @@ print(type(number))
 
 `<class 'str'>` means it's a string.
 
+---
+
 ### Print data type of integers and floating-point numbers
 
 ```python
@@ -90,6 +96,8 @@ print(type(number2))
 <class 'int'>
 <class 'float'>
 ```
+
+---
 
 ## Convert strings to integers and floats
 
@@ -129,6 +137,8 @@ print(type(number))
 <class 'int'>
 ```
 
+---
+
 ### Convert strings to floats
 
 Similary, we can use `float()` to convert a string to a floating-point number.
@@ -145,6 +155,8 @@ print(type(number))
 ```
 <class 'float'>
 ```
+
+---
 
 ## Convert non-numeric strings to numbers
 
