@@ -149,7 +149,7 @@ print("Fee after discount:", discounted_fee, "dollars") # 4081.5
 
 **Can you create a program to convert distance in kilometers to miles?**
 
-**Forumula: 1 kilometer -> 0.621371 miles**
+**Formula: 1 kilometer -> 0.621371 miles**
 
 ```
 # Program to convert kilometers to files
