@@ -105,7 +105,7 @@ not         True if the operand is False
 
 ### `and` Operator
 
-If both of the expressions are true, then the result should be true.
+If both of the expressions are true, then the result `true`.
 
 ```python
 age = 22
@@ -115,7 +115,7 @@ result = age >= 18 and gpa > 3.6
 print(result) # True
 ```
 
-However, if either of these expressions is false,
+However, if either of these expressions is false, the result is `false`.
 
 ```python
 age = 22
@@ -127,7 +127,8 @@ print(age >= 18 and gpa > 3.9) # false
 ---
 
 ### `or` Operator
-If either of the expression is true, then the result should be true.
+If either of the expression is `true`, then the result is true. If both expressions are `false`, only then the result is `false`.
+
 ```python
 age = 22
 gpa = 3.8
