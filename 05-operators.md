@@ -1,6 +1,6 @@
 # Python Operators
 
-**Video link:**
+**Video link:** [https://youtu.be/xTmEqNRr9T4](https://youtu.be/xTmEqNRr9T4)
 
 In this video, we learned about Python operators.
 
