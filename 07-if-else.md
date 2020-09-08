@@ -27,7 +27,7 @@ However, if `test_condition` is `False`, the body of the `if` statement is skipp
 
 ---
 
-### Working Example
+### Example: Check if student passed the exam
 
 **Suppose you are a university student and to pass the examination you need to score 50 or more. Lets look at a program to
 check if you passed the exam.**
@@ -74,7 +74,7 @@ Sorry, you have failed your exam.
 
 ---
 
-## Python if...else statement
+## Python `if...else` statement
 
 The `if` statement can have an optional `else` clause to run when `test_condition` is `False`. The syntax of `if..else` is:
 
@@ -99,7 +99,7 @@ else:
 
 ___
 
-## Python if...elif...else statement
+## Python `if...elif...else` statement
 
 The `if` statement can also have multiple `elif` clauses to handle more than two test cases.
 The syntax of `if...elif...else` is:
