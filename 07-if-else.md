@@ -148,12 +148,43 @@ Score is invalid.
 * __If number is negative, print "The number is negative"__
 
 ```python
+# Solution 1
+
 number = float(input("Enter a number: "))
 
 if number > 0:
     print("The number is positive")
 elif number == 0:
     print("The number is 0")
+else:
+    print("The number is negative")
+```
+
+
+```python
+# Solution 2
+
+number = float(input("Enter a number: "))
+
+if number > 0:
+    print("The number is positive")
+elif number < 0:
+    print("The number is negative")
+else:
+    print("The number is 0")
+```
+
+```python
+# Solution 3: Using Nested if else
+
+number = float(input("Enter a number: "))
+
+if number >= 0:
+    # At this point, number is either 0 or a positive number
+    if number > 0:
+        print("The number is positive")
+    else:
+        print("The number is 0")
 else:
     print("The number is negative")
 ```
