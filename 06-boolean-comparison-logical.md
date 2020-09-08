@@ -1,6 +1,6 @@
 # Python Booleans, Comparison and Logical Operators
 
-**Video link:**
+**Video link:** [https://youtu.be/mrryXQnlYN8](https://youtu.be/mrryXQnlYN8)
 
 In this video, we learned about the boolean data type as well as comparison and logical operators in Python.
 

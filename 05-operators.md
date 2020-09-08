@@ -7,7 +7,7 @@ In this video, we learned about Python operators.
 **Programs in the Video**
 
 - [Arithmetic Operators](#arithmetic-operators)
-- [Concatenate Strings](#concatenate-stringst)
+- [Concatenate Strings](#concatenate-strings)
 - [Program to Compute Amount After Discount](#program-to-compute-discount)
 - [**Task**: Kilometers to Miles](#programming-task)
 
