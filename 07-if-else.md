@@ -7,8 +7,8 @@ In this video, we learned about decision making in Python using the **if...else*
 **Programs in the Video**
 
 - [Python if statement](#python-if-statement)
-- [Python if...else statement](#python-if-else-statement)
-- [Python if...elif...else statement](#python-if-elif-else-statement)
+- [Python if...else statement](#python-ifelse-statement-1)
+- [Python if...elif...else statement](#python-ifelifelse-statement)
 - [**Task**: Check if number if positive, negative, or zero](#programming-task)
 
 ---
@@ -24,6 +24,8 @@ if test_condition:
 If `test_condition` is `True`, the body of the `if` statement is executed.
 
 However, if `test_condition` is `False`, the body of the `if` statement is skipped from execution.
+
+---
 
 ### Working Example
 
