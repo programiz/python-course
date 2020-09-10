@@ -118,3 +118,5 @@ We can see that these unassigned multiline strings are ignored.
 
 * Comments make it easier for other developers to understand and use your code.
 * Comments are also used for simple debugging purposes.
+
+>**Note**: Comments should not be used as a substitute to explain poorly written code. You should always try to write clean, understandable code, and then use comments as an addition.
