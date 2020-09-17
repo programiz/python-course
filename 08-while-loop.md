@@ -1,6 +1,6 @@
 # Python while Loop
 
-**Video link:** 
+**Video link:** [https://youtu.be/5AOfDuV6X30](https://youtu.be/5AOfDuV6X30)
 
 In this video, we learned about loops to repeat certain blocks of code, specifically using the `while` loop.
 
@@ -27,7 +27,7 @@ Here, the statements inside the `while` loop are executed for as long as `test_c
 
 ---
 
-### Example: Using while Loops
+### Example: Using `while` Loops
 
 ```python
 count = 0
