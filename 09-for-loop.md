@@ -167,10 +167,12 @@ Enter an integer: 9
 The result should be equal to **1 + 2 + 3 + ... + 100**.
 
 ```python
-sum = 0
+total = 0
+
+# looping from 1 to 100
 for number in range(1, 101):
-    sum = sum + number
-print(sum)
+    total = total + number
+print(total)
 ```
 
 **Output**
