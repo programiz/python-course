@@ -1,6 +1,6 @@
 # Python for Loop
 
-**Video link:** 
+**Video link:** [https://youtu.be/yaqMSBr_NCU](https://youtu.be/yaqMSBr_NCU) 
 
 In this video, we learned about loops to repeat certain blocks of code, specifically using the `for` loop.
 
