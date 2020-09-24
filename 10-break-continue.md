@@ -1,6 +1,6 @@
 # Python `break` and `continue`
 
-**Video link:** 
+**Video link:** [https://youtu.be/Mho_1WO-ht4](https://youtu.be/Mho_1WO-ht4)
 
 In this video, we learned about `break` and `continue` statements in Python that can be used to alter the flow of a normal loop.
 
