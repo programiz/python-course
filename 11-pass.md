@@ -6,7 +6,7 @@ In this video, we learned about the `pass` statement in Python.
 
 **Programs in the Video**
 
-- [Python pass Statement](#python-pass-statement-1)
+- [Python pass Statement](#python-pass-statement)
 
 ---
 ## Python `pass` Statement
