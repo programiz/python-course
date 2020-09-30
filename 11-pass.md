@@ -1,6 +1,6 @@
 # Python `pass`
 
-**Video link:** 
+**Video link:** [https://youtu.be/n4B3zYfk_Pg](https://youtu.be/n4B3zYfk_Pg)
 
 In this video, we learned about the `pass` statement in Python.
 
