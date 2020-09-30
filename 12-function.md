@@ -273,11 +273,11 @@ def multiply_numbers(num1, num2):
 number1 = 5
 number2 = 30
 
-num_sum = add_numbers(number1, number2)
-print("Sum is", num_sum)
+sum_result = add_numbers(number1, number2)
+print("Sum is", sum_result)
 
-num_product = multiply_numbers(number1, number2)
-print("Product is", num_product)
+product_result = multiply_numbers(number1, number2)
+print("Product is", product_result)
 ```
 
 **Output**
