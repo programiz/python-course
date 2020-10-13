@@ -1,6 +1,6 @@
 # Python List and Tuple
 
-**Video link:** 
+**Video link:** [https://youtu.be/hANUgg72TDc](https://youtu.be/hANUgg72TDc)
 
 In this video, we learned about two compound data types in Python: lists and tuples.
 
