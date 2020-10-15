@@ -346,7 +346,7 @@ False
 
 ---
 
-### String Methods
+### Python String Methods
 
 Strings are probably the most frequently used data type. To make working with strings easier, Python has numerous string methods readily available for us to use.
 
