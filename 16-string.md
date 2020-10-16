@@ -1,6 +1,6 @@
 # Python String
 
-**Video link:** 
+**Video link:** [https://youtu.be/GQywwPUrsgA](https://youtu.be/GQywwPUrsgA)
 
 In this video, we learned about Python strings in depth.
 
@@ -346,7 +346,7 @@ False
 
 ---
 
-### String Methods
+### Python String Methods
 
 Strings are probably the most frequently used data type. To make working with strings easier, Python has numerous string methods readily available for us to use.
 
