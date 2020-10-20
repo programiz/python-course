@@ -1,6 +1,6 @@
 # Python Dictionary
 
-**Video link:** 
+**Video link:** [https://youtu.be/_4wOvc-vt4k](https://youtu.be/_4wOvc-vt4k)
 
 In this video, we learned about Python dictionary that allows us to work with key/value pairs.
 
