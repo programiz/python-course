@@ -349,5 +349,5 @@ print("The perimeter of the t1 triangle is", perimeter)
 
 **Output**
 ```
-The perimeter of the triangle is 12
+The perimeter of the t1 triangle is 12
 ```
