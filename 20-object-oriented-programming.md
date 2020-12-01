@@ -344,7 +344,7 @@ class Triangle:
 t1 = Triangle(3, 4, 5)
 
 perimeter = t1.get_perimeter()
-print("The perimeter of the triangle is", perimeter)
+print("The perimeter of the t1 triangle is", perimeter)
 ```
 
 **Output**
