@@ -338,8 +338,8 @@ class Triangle:
         self.c = c
     
     def get_perimeter(self):
-        p = self.a + self.b + self.c
-        return p
+        perimeter = self.a + self.b + self.c
+        return perimeter
     
 t1 = Triangle(3, 4, 5)
 
