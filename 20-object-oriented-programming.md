@@ -110,7 +110,7 @@ True
 False
 ```
 
->**Note:** Using `self` is a just a convention but we highly recommend using `self`.
+>**Note:** Using `self` is just a convention but we highly recommend using `self`.
 
 ---
 
