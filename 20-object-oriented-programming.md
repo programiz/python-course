@@ -7,7 +7,7 @@ In this video, you learned about object-oriented programming along with the help
 **Programs in the Video**
 
 - [Python Classes and Objects](#python-classes-and-objects)
-- [The `__init__()` Method](#the-init-method)
+- [The `__init__()` Method](#the-__init__-method)
 - [Example: Add Two Complex Numbers](#example-add-two-complex-numbers)
 - [Why object-oriented programming?](#why-object-oriented-programming)
 - [**Task**: Perimeter of Triangle](#programming-task)
@@ -148,7 +148,7 @@ Harry
 ```
 
 When we create an object, this `__init__()` method is automatically called. We have used `Harry` and `85` during object creation,
-these values are passed to `name` and `marks` in the `init()` method.
+these values are passed to `name` and `marks` in the `__init()__` method.
 
 Remember, the first parameter `self` represents the object calling it, while the second and third parameter take the two arguments which we used during object creation.
 
