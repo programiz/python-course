@@ -112,7 +112,7 @@ True
 False
 ```
 
->**Note:** Using `self` is a just a convention but we highly recommend using `self`.
+>**Note:** Using `self` is just a convention but we highly recommend using `self`.
 
 ---
 
@@ -340,16 +340,16 @@ class Triangle:
         self.c = c
     
     def get_perimeter(self):
-        p = self.a + self.b + self.c
-        return p
+        perimeter = self.a + self.b + self.c
+        return perimeter
     
 t1 = Triangle(3, 4, 5)
 
 perimeter = t1.get_perimeter()
-print("The perimeter of the triangle is", perimeter)
+print("The perimeter of the t1 triangle is", perimeter)
 ```
 
 **Output**
 ```
-The perimeter of the triangle is 12
+The perimeter of the t1 triangle is 12
 ```
