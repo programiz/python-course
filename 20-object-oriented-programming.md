@@ -1,6 +1,6 @@
 # Python Object-Oriented Programming
 
-**Video link:**
+**Video link:** [https://youtu.be/pnWINBJ3-yA](https://youtu.be/pnWINBJ3-yA)
 
 In this video, you learned about object-oriented programming along with the help of examples.
 
@@ -68,7 +68,9 @@ print(did_pass)
 
 **Output**
 
-```True```
+```
+True
+```
 
 Here, the `check_pass_fail()` method is defined inside the `Student` class.
 
