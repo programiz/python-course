@@ -1,6 +1,6 @@
 # Python Packages
 
-**Video link:** 
+**Video link:** [https://youtu.be/TIt2EOuC-Bo](https://youtu.be/TIt2EOuC-Bo)
 
  In this video, we learned about Python packages with the help of examples. We also learned about pip, the standard package manager of Python.
 
