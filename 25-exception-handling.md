@@ -1,6 +1,6 @@
 # Python Exception Handling
 
-**Video link:** 
+**Video link:** [https://youtu.be/brICUKrzVR0](https://youtu.be/brICUKrzVR0)
 
 In this video, we learned about exceptions in detail and also about handling them in Python using `try...except` statement.
 
