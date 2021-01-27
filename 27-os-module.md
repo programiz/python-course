@@ -1,6 +1,6 @@
 # Python `os` module
 
-**Video link:** 
+**Video link:** [https://youtu.be/vNP15Wov7sQ](https://youtu.be/vNP15Wov7sQ)
 
 In this video, we learned to use the `os` module to perform various directory operations like creating, renaming, and removing directories with the help of examples. 
 
