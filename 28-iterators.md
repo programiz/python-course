@@ -1,6 +1,6 @@
 # Python Iterators and Iterables
 
-**Video link:** 
+**Video link:** [https://youtu.be/C_rhipZonok](https://youtu.be/C_rhipZonok)
 
 In this video, we learned about iterables and iterators in Python with the help of examples.
 
