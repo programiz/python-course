@@ -9,7 +9,7 @@ In this video, we learned how to create custom iterators in Python using generat
 - [Why Generators?](#why-generators)
 - [Python Generators](#python-generators-1)
 - [Infinite Stream of Data with Generators](#infinite-stream-of-data-with-generators)
-
+- [**Task**: Create Infinite Stream of Odd Numbers](#programming-task)
 ---
 
 ## Why Generators?
@@ -173,3 +173,36 @@ print(next(seq))
 If we had used a for loop and a list to store this infinite series, we would have run out of memory.
 
 However, with generators, we can keep accessing these items for as long as we want. It is because we are just dealing with one item at a time.
+
+---
+
+## Programming Task
+
+Create a generator function to generate an infinite stream of odd numbers and print the first 10 elements.
+
+```python
+def generate_odd():
+    n = 1
+    while True:
+        yield n
+        n += 2
+
+odd_generator = generate_odd()
+
+for num in range(10):
+    print(next(odd_generator))
+```
+
+**Output**
+```
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+```
