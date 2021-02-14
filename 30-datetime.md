@@ -1,6 +1,6 @@
 # Python `datetime` module
 
-**Video link:** 
+**Video link:** [https://youtu.be/r1Iv4d6CO2Q](https://youtu.be/r1Iv4d6CO2Q)
 
 In this video, we learned about the `datetime` module to manipulate date and time in Python.
 
