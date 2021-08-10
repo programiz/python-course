@@ -140,7 +140,7 @@ number = int(input("Enter an integer: "))
 
 for count in range(1, 11):
     product = number * count
-    print(number, "*", i, "=", product)
+    print(number, "*", count, "=", product)
 ```
 
 **Output**
